@@ -366,16 +366,16 @@ svg {
         }       
     }
     .time-part {
-        width: 62px;
+        width: 72px;
         height: 60px;
     }
     .digit {
-        font-size: 42px !important;
+        font-size: 52px !important;
     }
     .abb {
-        font-size: 22px;
+        font-size: 28px;
         display: flex;
-        margin-left: -15px;
+        margin-left: -20px;
         color: rgba(98, 0, 238, 0.8);
     }
     .letter {
