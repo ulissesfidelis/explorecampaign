@@ -368,6 +368,8 @@ svg {
     .time-part {
         width: 72px;
         height: 54px;
+        text-align: center;
+        padding-top: 5px;
     }
     .digit {
         font-size: 52px !important;
