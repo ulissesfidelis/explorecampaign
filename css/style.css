@@ -282,6 +282,10 @@ svg {
     text-align: center;
     font-family: "Aldrich", sans-serif;
     overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
 
     &:before, &:after {
         content: "";
@@ -289,7 +293,7 @@ svg {
         position: absolute;
         width: 100%;
         left: 0;
-        height: 10px;
+        height: 10px !important;
         z-index: 10;
     }
 
