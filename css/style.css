@@ -308,12 +308,6 @@ svg {
     }
 }
 
-@media only screen and (max-width:1200px) {
-	#countdown {
-		margin-top: 15px;
-	}
-}
-
 
 .time-part-wrapper {
     display: inline;
